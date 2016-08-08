@@ -1,0 +1,29 @@
+_repo: Phebe-Her-ProfessionA-Sequel-to-Teddy--Her-Book_12584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ray, Anna Chapin
+    alias: Ray, Fan
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '1234'
+    url: http://www.gutenberg.org/2009/agents/1234
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'United States -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Phebe, Her Profession
+
+  A Sequel to Teddy: Her Book'
+url: http://www.gutenberg.org/ebooks/12584
